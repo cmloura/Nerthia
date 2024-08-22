@@ -1,0 +1,6 @@
+### Background
+Jadism is a polytheistic and diverse tradition indigenous to [[Chuuhon]], variously characterized as both a philosophy and a religion. Jadism emphasizes living in harmony with the spirits of the land by means of attaining perfection of Body, Mind and Spirit. Jadism developed from the teachings of Chuuhonian philosopher [[Jad Emerys]] during a time of great turmoil in Nerthia. Jadism was temporarily suppressed but became the reason of Chuuhon's split from Valencia in 4720.  
+
+Jadism teaches the importance of social harmony and goodness as a means of appeasing both the spirits and to perfect the self. Rather than an otherworldly source of spiritual values, the core of Jadism is "humanistic." It considers the minutia of nature and social interaction as divine through actions and appreciation. By being a good person, one appeases the spirits of the lands which prevents evil. 
+### Philosophy
+Jadism teaches that evil exists because of the un-appeasement of the spirits that inhabit the universe. To eliminate evil from the world, the spirits must be appeased by practicing that which is good. That good are the things that which bring ones mind, body and soul to perfection - things such as appreciating nature, acts of kindness and living humbly.

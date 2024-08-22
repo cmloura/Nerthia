@@ -1,0 +1,2 @@
+### Background
+The Keening Gloom is an ethereal storm of energy located right outside of [[The Radiant Citadel]]. During the Destruction of The Radiant Citadel, cultists appeared to move the Keening Gloom to overtake the entire citadel. 

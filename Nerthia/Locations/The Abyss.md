@@ -1,0 +1,2 @@
+### Background
+The Abyss, also known as The Inferno, is a place located in [[The Sinful Lands]]. Supposedly, at the bottom of the Inferno is where [[Ausra Nothti]]'s father and [[Old Cob]] are imprisoned.

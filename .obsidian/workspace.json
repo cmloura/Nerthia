@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "cf734c3a8d63db25",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be79a7fc235223b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f58a0dd260c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d83984c01553d7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6da916a5543878d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22fede88e5b3025",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21d8536c5c4b2559",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bceff57dcf983ff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "bbcf8f03d276fce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93861443e59b431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e816ad82b79307",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82e19a7757c8aa5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e15fa5875c1b46b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b847f2404bef7ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58f58a0dd260c5f7",
+  "lastOpenFiles": [
+    "Nerthia/Characters/NPCs/Darkon.md",
+    "Nerthia/Characters/PCs/Cyrus Drake.md",
+    "Nerthia/Characters/PCs/Ylt.md",
+    "Nerthia/Characters/PCs/Omar.md",
+    "2024-08-22.md",
+    "Nerthia/Events/Destruction of the Radiant Citadel.md",
+    "Nerthia/Locations/Halvhrest Manor.md",
+    "Nerthia/Locations/Dakalra.md",
+    "Nerthia/Locations/The Radiant Citadel.md",
+    "Nerthia/Locations/The Institute of Innovation.md",
+    "Nerthia/Characters/NPCs/Aelfwynn.md",
+    "The Legend of the Saviors Three.md",
+    "Nerthia/Locations/Valencia.md",
+    "Nerthia/Locations/Sights/The Keening Gloom.md",
+    "Nerthia/Events/Frøthor Civil War.md",
+    "Nerthia/Religions/Jadism.md",
+    "Nerthia/Religions/Church of Goodness.md",
+    "Nerthia/Characters/NPCs/Kirin.md",
+    "Nerthia/Characters/NPCs/Kjöllvir.md",
+    "Nerthia/Characters/NPCs/Larry Biggs.md",
+    "Nerthia/Characters/NPCs/M'Bago.md",
+    "Nerthia/Organizations/Cult of Cthulhu.md",
+    "Nerthia/Characters/NPCs/Sir Argentus.md",
+    "Nerthia/Characters/NPCs/Brother Gil.md",
+    "Nerthia/Characters/NPCs/brother-gil.png",
+    "Nerthia/Characters/NPCs/Catmandu.md",
+    "Nerthia/Characters/NPCs/Byakuya Togami.md",
+    "Nerthia/Images/Revin.jpg",
+    "Nerthia/Images/siradamantus.png",
+    "Nerthia/Images/gontor.png",
+    "Nerthia/Images/regulus.jpg",
+    "Nerthia/Images/elena-doncaster.jpeg",
+    "Nerthia/Images/arual-armm.png",
+    "Nerthia/Images/bedevere-reddington.jpg",
+    "Nerthia/Images/m'bago.jpg",
+    "Nerthia/Images/andromeda.jpg",
+    "Untitled.canvas",
+    "Untitled",
+    "Nerthia/Characters",
+    "Nerthia/Religions",
+    "Nerthia/Organizations",
+    "Nerthia/Locations/Sights",
+    "Nerthia/Locations",
+    "Nerthia/Images",
+    "Nerthia/Events",
+    "Nerthia/Characters/NPCs",
+    "Nerthia/Characters/PCs"
+  ]
+}
